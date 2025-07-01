@@ -2,7 +2,7 @@
 ESP32 Bluetooth MIDI Device
 Proto G Engineering
 
-Install this Library
+Install Version 0.3.2 this Library
 https://github.com/max22-/ESP32-BLE-MIDI
 
 Install Version 1.4.3 of this Library:
