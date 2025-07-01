@@ -1,0 +1,2 @@
+# ESP32_MIDI_PROTO
+ESP32 Bluetooth MIDI Device
